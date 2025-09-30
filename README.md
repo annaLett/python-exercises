@@ -11,5 +11,5 @@ praticare logica, analisi dei dati e programmazione.
 ## 🚀 Come usare
 Clona la repo:
 ```bash
-git clone https://github.com/<tuo-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/annaLett/python-exercises.git
+cd python-exercises
