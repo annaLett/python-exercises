@@ -46,12 +46,13 @@ print(f"il computer ha scelto: {scelta_computer}")
 
 if scelta_utente == scelta_computer:
     print("pareggio!")
-if scelta_utente == 'sasso' and scelta_computer == 'forbici': 
+elif scelta_utente == 'sasso' and scelta_computer == 'forbici': 
     print("hai vinto") 
-if scelta_utente == 'forbici' and scelta_computer == 'carta': 
+elif scelta_utente == 'forbici' and scelta_computer == 'carta': 
     print("hai vinto") 
-if scelta_utente == 'carta' and scelta_computer == 'sasso': 
+elif scelta_utente == 'carta' and scelta_computer == 'sasso': 
     print("hai vinto") 
+
 else: 
     print("hai perso")
     
